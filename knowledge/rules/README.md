@@ -17,3 +17,4 @@
 |---|---|---|
 | [한국어 정보성 콘텐츠 작성 지침](writing/korean-informational-writing.md) | draft | 독자·목적·매체에 맞춘 작성 기준과 참고자료 부록 |
 | [범용 UI/UX 표준 지침](design/universal-uiux.md) | draft | 특정 서비스·실행 환경에 의존하지 않는 사용자 경험 요구사항 15개와 적합성 확인 기준 30개 |
+| [레퍼런스 우선 UI/UX 설계 지침](design/reference-first-uiux.md) | draft | 신제품 프로토타입부터 경쟁 서비스의 UI·동작을 확인·재현하고 변경 이유와 실제 검증을 기록하는 실행 기준 |
