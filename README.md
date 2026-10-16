@@ -23,8 +23,7 @@ AI 에이전트와 코딩, 콘텐츠 제작, 아티클 작성을 수행할 때 �
 ## 작성 중인 문서
 
 - [한국어 정보성 콘텐츠 작성 지침](knowledge/rules/writing/korean-informational-writing.md) — `draft`. 카드뉴스·제품 소개·안내·개념 설명·내부 공유 등에 적용하는 공통 작성 기준입니다. 참고자료와 적용 범위는 같은 문서의 부록에 통합했습니다.
-- [범용 UI/UX 표준 지침](knowledge/rules/design/universal-uiux.md) — `draft`. 특정 서비스·실행 환경·구현 수단에 의존하지 않는 요구사항 15개와 적합성 확인 기준 30개입니다.
-- [범용 UI/UX 적합성 검수](knowledge/guides/review/universal-uiux-review.md) — `draft`. 표준 지침을 실제 사용 과정에 대조하고 판정·관찰 근거·미확인 범위를 기록하는 절차입니다.
+- [범용 UI/UX 표준 지침](knowledge/rules/design/universal-uiux.md) — `draft`. 특정 서비스·실행 환경·구현 수단에 의존하지 않는 요구사항 15개, 적합성 확인 기준 30개, 검수·판정·기록 방법을 한 문서로 관리합니다.
 
 문서 등록과 소유자의 활성화, 개별 에이전트에 대한 적용은 구분합니다. Product Scout 등의 작업별 독자·톤·구성 지침과 수집·선별·발행 운영 지침은 이번 문서에 포함하지 않았습니다.
 
