@@ -14,4 +14,4 @@
 
 | 문서 | 상태 | 내용 |
 |---|---|---|
-| [한국어 정보성 콘텐츠 작성·편집 지침](writing/korean-informational-writing.md) | draft | 문장·의미·조건·설명·독자 이해에 관한 상위 작성 표준 |
+| [한국어 정보성 콘텐츠 작성 지침](writing/korean-informational-writing.md) | draft | 독자·목적·매체에 맞춘 작성 기준과 참고자료 부록 |

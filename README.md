@@ -22,8 +22,7 @@ AI 에이전트와 코딩, 콘텐츠 제작, 아티클 작성을 수행할 때 �
 
 ## 작성 중인 문서
 
-- [한국어 정보성 콘텐츠 작성·편집 지침](knowledge/rules/writing/korean-informational-writing.md) — `draft`. 문장 구성, 의미·조건 보존, 명료한 설명, 독자 이해에 관한 상위 작성 표준입니다.
-- [출처와 적용 범위](knowledge/references/writing/korean-informational-writing-sources.md) — `draft`. 원전 링크·서지·검토 구간과 채택 내용·적용 제한을 기록합니다.
+- [한국어 정보성 콘텐츠 작성 지침](knowledge/rules/writing/korean-informational-writing.md) — `draft`. 카드뉴스·제품 소개·안내·개념 설명·내부 공유 등에 적용하는 공통 작성 기준입니다. 참고자료와 적용 범위는 같은 문서의 부록에 통합했습니다.
 
 문서 등록과 소유자의 활성화, 개별 에이전트에 대한 적용은 구분합니다. Product Scout 등의 작업별 독자·톤·구성 지침과 수집·선별·발행 운영 지침은 이번 문서에 포함하지 않았습니다.
 
