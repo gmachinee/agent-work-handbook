@@ -8,3 +8,9 @@
 - 대체 문서가 있다면 보관 문서 본문에 링크를 남기고, 새 문서에 `supersedes`를 기록합니다.
 
 보관 문서는 기본 검색에서 제외하고 과거 기록 조회 요청에서 활용합니다.
+
+## 보관된 문서
+
+| 문서 | 대체 문서 |
+| --- | --- |
+| [레퍼런스 우선 UI/UX 설계 지침](rules/design/reference-first-uiux.md) | [UI/UX 통합 설계·검수 지침](../knowledge/rules/design/universal-uiux.md) |
