@@ -24,8 +24,11 @@ AI 에이전트와 코딩, 콘텐츠 제작, 아티클 작성을 수행할 때 �
 
 - [제품 계약 중심 테스트 기준](knowledge/rules/testing/product-contract-tests.md) — `active`. 테스트 추가·유지·삭제와 실제 제품 코드 검증 기준을 다룹니다.
 - [업무 규칙 공통화와 추상화 기준](knowledge/rules/coding/shared-rules-and-abstraction.md) — `active`. 정책값·업무 규칙의 구분, 현재 필요한 변형과 임시 중복의 정리 조건을 다룹니다.
+- [한국어 정보성 콘텐츠 작성 지침](knowledge/rules/writing/korean-informational-writing.md) — `active`. 독자의 질문에 맞춘 정보 선택, 사용 장면·행동·결과의 연결, 사실·조건과 설명 품질을 나누는 자체 검수 기준을 다룹니다. 참고자료와 적용 범위는 같은 문서의 부록에 통합했습니다.
 
 - [UI/UX 통합 설계·검수 지침](knowledge/rules/design/universal-uiux.md) — `active`. 신제품 프로토타입부터 적용하는 레퍼런스 우선 설계·구현 원칙, 사용자 경험의 품질 기준, 실행·검수·완료 판정을 한 문서에서 관리합니다. UI/UX 작업 에이전트는 기본 규칙으로 확보하고 따릅니다.
+
+한국어 작성 지침은 공통 작성 기준입니다. Product Scout 등의 작업별 독자·톤·구성 지침과 수집·선별·발행 운영 지침은 별도로 관리합니다.
 
 ## 활성 작업 절차
 
@@ -34,12 +37,6 @@ AI 에이전트와 코딩, 콘텐츠 제작, 아티클 작성을 수행할 때 �
 - [자기 완결적 검수 보고서 구성](knowledge/guides/review/self-contained-review-reports.md) — `active`. 기존 UI/UX 판정 기준을 참조하며 유저 스토리별 실행·화면·근거를 연결합니다.
 
 - [IT 서비스 기획·검증·개선 절차](knowledge/guides/product/service-planning.md) — `active`. 사용자·시장·경쟁 조사, 레퍼런스·벤치마킹, 문제·해결안 검증을 상세 설계·구현·출시·성과 개선에 연결합니다. 검증·구현 두 트랙과 지속적 기획을 기본으로 하며, 기존 UI/UX 지침과 역할을 나눠 작업 규모에 맞게 적용합니다. 기업 자료의 사실 요약·한계와 handbook의 적용안을 같은 문서에서 구분합니다.
-
-## 작성 중인 문서
-
-- [한국어 정보성 콘텐츠 작성 지침](knowledge/rules/writing/korean-informational-writing.md) — `draft`. 카드뉴스·제품 소개·안내·개념 설명·내부 공유 등에 적용하는 공통 작성 기준입니다. 참고자료와 적용 범위는 같은 문서의 부록에 통합했습니다.
-
-문서 등록과 소유자의 활성화, 개별 에이전트에 대한 적용은 구분합니다. Product Scout 등의 작업별 독자·톤·구성 지침과 수집·선별·발행 운영 지침은 이번 문서에 포함하지 않았습니다.
 
 ## 저장소 구조
 
