@@ -15,7 +15,6 @@
 
 | 문서 | 상태 | 내용 |
 |---|---|---|
-| [제품 계약 중심 테스트 기준](testing/product-contract-tests.md) | active | 테스트 추가·유지·삭제와 실제 제품 코드 검증 기준 |
-| [업무 규칙 공통화와 추상화 기준](coding/shared-rules-and-abstraction.md) | active | 정책값·업무 규칙의 구분, 필요한 변형과 임시 중복의 정리 조건 |
+| [소프트웨어 변경·검증 기준](coding/engineering-changes.md) | active | 기존 구현 활용·변경 계약·인계와 테스트·실패 귀속·병합·검증 자산 관리의 통합 기준 |
 | [한국어 정보성 콘텐츠 작성 지침](writing/korean-informational-writing.md) | active | 독자에 맞춘 정보 선택과 설명 연결, 사실·조건 및 설명 품질의 자체 검수 기준과 참고자료 부록 |
 | [UI/UX 통합 설계·검수 지침](design/universal-uiux.md) | active | 레퍼런스 우선 설계·구현 원칙과 결과 품질 기준, 실행·검수·완료 판정을 연결하는 통합 기준 |

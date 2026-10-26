@@ -2,17 +2,19 @@
 id: kb-test-failure-attribution
 title: "테스트·CI 실패의 변경 귀속 확인"
 kind: guide
-status: active
+status: archived
 summary: "이번 변경으로 생긴 실패와 기준 브랜치의 기존 실패를 구분하고 근거에 따라 수정 범위와 차단 사항을 보고한다."
 scope:
   - general
 tags: [engineering, testing, ci, review]
 created: "2026-10-20"
-updated: "2026-10-20"
+updated: "2026-10-26"
 language: ko
 ---
 
 # 테스트·CI 실패의 변경 귀속 확인
+
+> 보관 문서입니다. 현재 기준은 [소프트웨어 변경·검증 기준](../../../knowledge/rules/coding/engineering-changes.md)에 통합했습니다. 아래 내용은 과거 기준이며 활성 규칙이 아닙니다.
 
 ## 준비 조건
 

@@ -2,13 +2,13 @@
 id: kb-self-contained-review-reports
 title: "자기 완결적 검수 보고서 구성"
 kind: guide
-status: active
+status: archived
 summary: "각 검수 단위에 유저 스토리·실행 조건·화면 위치·근거를 연결해 대화 맥락 없이 결과를 확인할 수 있게 한다."
 scope:
   - general
 tags: [engineering, review, e2e, reporting]
 created: "2026-10-20"
-updated: "2026-10-20"
+updated: "2026-10-26"
 language: ko
 related:
   - kb-universal-uiux-standard
@@ -16,9 +16,11 @@ related:
 
 # 자기 완결적 검수 보고서 구성
 
+> 보관 문서입니다. 현재 검수 보고서 구성은 [UI/UX 통합 지침의 최소 기록](../../../knowledge/rules/design/universal-uiux.md#최소-기록)을 따릅니다. 검증 자산 관리는 [소프트웨어 변경·검증 기준](../../../knowledge/rules/coding/engineering-changes.md#6-검증-자산의-재사용관리)에 통합했습니다. 아래 내용은 과거 기준이며 활성 규칙이 아닙니다.
+
 ## 적용 상황과 경계
 
-사용자 흐름의 구현 결과를 검수 보고서로 전달할 때 적용한다. UI/UX의 기대·실제 결과, 관찰 근거, 판정·완료 기준은 [UI/UX 통합 설계·검수 지침의 최소 기록](../../rules/design/universal-uiux.md#최소-기록)을 따른다. 이 문서는 그 기준이나 검수표를 복제하지 않고 보고서의 배치·연결 방식만 다룬다.
+사용자 흐름의 구현 결과를 검수 보고서로 전달할 때 적용한다. UI/UX의 기대·실제 결과, 관찰 근거, 판정·완료 기준은 [UI/UX 통합 설계·검수 지침의 최소 기록](../../../knowledge/rules/design/universal-uiux.md#최소-기록)을 따른다. 이 문서는 그 기준이나 검수표를 복제하지 않고 보고서의 배치·연결 방식만 다룬다.
 
 ## 작업 순서
 

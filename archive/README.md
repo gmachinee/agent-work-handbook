@@ -14,3 +14,8 @@
 | 문서 | 대체 문서 |
 | --- | --- |
 | [레퍼런스 우선 UI/UX 설계 지침](rules/design/reference-first-uiux.md) | [UI/UX 통합 설계·검수 지침](../knowledge/rules/design/universal-uiux.md) |
+| [제품 계약 중심 테스트 기준](rules/testing/product-contract-tests.md) | [소프트웨어 변경·검증 기준](../knowledge/rules/coding/engineering-changes.md) |
+| [업무 규칙 공통화와 추상화 기준](rules/coding/shared-rules-and-abstraction.md) | [소프트웨어 변경·검증 기준](../knowledge/rules/coding/engineering-changes.md) |
+| [브랜치 병합 시 변경 보존 절차](guides/implementation/git-merge-preservation.md) | [소프트웨어 변경·검증 기준](../knowledge/rules/coding/engineering-changes.md) |
+| [테스트·CI 실패의 변경 귀속 확인](guides/review/test-failure-attribution.md) | [소프트웨어 변경·검증 기준](../knowledge/rules/coding/engineering-changes.md) |
+| [자기 완결적 검수 보고서 구성](guides/review/self-contained-review-reports.md) | [UI/UX 통합 지침의 최소 기록](../knowledge/rules/design/universal-uiux.md#최소-기록) |

@@ -2,17 +2,19 @@
 id: kb-product-contract-tests
 title: "제품 계약 중심 테스트 기준"
 kind: rule
-status: active
+status: archived
 summary: "테스트 추가·유지·삭제를 제품 계약과 회귀 위험으로 판단하고, 실제 제품 코드를 검증한다."
 scope:
   - general
 tags: [engineering, testing, regression]
 created: "2026-10-20"
-updated: "2026-10-20"
+updated: "2026-10-26"
 language: ko
 ---
 
 # 제품 계약 중심 테스트 기준
+
+> 보관 문서입니다. 현재 기준은 [소프트웨어 변경·검증 기준](../../../knowledge/rules/coding/engineering-changes.md)에 통합했습니다. 아래 내용은 과거 기준이며 활성 규칙이 아닙니다.
 
 ## 적용 상황
 

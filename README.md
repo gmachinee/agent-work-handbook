@@ -22,8 +22,7 @@ AI 에이전트와 코딩, 콘텐츠 제작, 아티클 작성을 수행할 때 �
 
 ## 활성 지침
 
-- [제품 계약 중심 테스트 기준](knowledge/rules/testing/product-contract-tests.md) — `active`. 테스트 추가·유지·삭제와 실제 제품 코드 검증 기준을 다룹니다.
-- [업무 규칙 공통화와 추상화 기준](knowledge/rules/coding/shared-rules-and-abstraction.md) — `active`. 정책값·업무 규칙의 구분, 현재 필요한 변형과 임시 중복의 정리 조건을 다룹니다.
+- [소프트웨어 변경·검증 기준](knowledge/rules/coding/engineering-changes.md) — `active`. 기존 구현 활용·모듈 경계, 변경 계약·인계, 테스트·실패 귀속·병합·검증 자산 관리를 한 문서에서 다룹니다.
 - [한국어 정보성 콘텐츠 작성 지침](knowledge/rules/writing/korean-informational-writing.md) — `active`. 독자의 질문에 맞춘 정보 선택, 사용 장면·행동·결과의 연결, 사실·조건과 설명 품질을 나누는 자체 검수 기준을 다룹니다. 참고자료와 적용 범위는 같은 문서의 부록에 통합했습니다.
 
 - [UI/UX 통합 설계·검수 지침](knowledge/rules/design/universal-uiux.md) — `active`. 신제품 프로토타입부터 적용하는 레퍼런스 우선 설계·구현 원칙, 사용자 경험의 품질 기준, 실행·검수·완료 판정을 한 문서에서 관리합니다. UI/UX 작업 에이전트는 기본 규칙으로 확보하고 따릅니다.
@@ -31,10 +30,6 @@ AI 에이전트와 코딩, 콘텐츠 제작, 아티클 작성을 수행할 때 �
 한국어 작성 지침은 공통 작성 기준입니다. Product Scout 등의 작업별 독자·톤·구성 지침과 수집·선별·발행 운영 지침은 별도로 관리합니다.
 
 ## 활성 작업 절차
-
-- [브랜치 병합 시 변경 보존 절차](knowledge/guides/implementation/git-merge-preservation.md) — `active`. 양쪽 변경 의도와 i18n·rename을 보존하고 기준 브랜치 변경의 중복 유입을 확인합니다.
-- [테스트·CI 실패의 변경 귀속 확인](knowledge/guides/review/test-failure-attribution.md) — `active`. 실패의 원인과 변경 귀속에 따라 수정 범위·차단 사항을 정리합니다.
-- [자기 완결적 검수 보고서 구성](knowledge/guides/review/self-contained-review-reports.md) — `active`. 기존 UI/UX 판정 기준을 참조하며 유저 스토리별 실행·화면·근거를 연결합니다.
 
 - [IT 서비스 기획·검증·개선 절차](knowledge/guides/product/service-planning.md) — `active`. 사용자·시장·경쟁 조사, 레퍼런스·벤치마킹, 문제·해결안 검증을 상세 설계·구현·출시·성과 개선에 연결합니다. 검증·구현 두 트랙과 지속적 기획을 기본으로 하며, 기존 UI/UX 지침과 역할을 나눠 작업 규모에 맞게 적용합니다. 기업 자료의 사실 요약·한계와 handbook의 적용안을 같은 문서에서 구분합니다.
 
@@ -69,7 +64,7 @@ agent-work-handbook/
 
 ## 운영 원칙
 
-- 한 문서는 하나의 질문, 판단 주제, 작업 또는 패턴을 다룹니다.
+- 문서의 통합·분리와 구성은 [문서 형식](docs/document-format.md#검색과-재사용을-위한-작성-기준)을 따릅니다.
 - 폴더는 역할을, 태그는 주제를 표현합니다.
 - 원문에서 얻은 사실과 개인의 해석을 구분합니다.
 - 공개할 수 있는 지침·요약·사례를 저장합니다. 예시는 공개용 데이터로 작성합니다.

@@ -2,17 +2,19 @@
 id: kb-shared-rules-and-abstraction
 title: "업무 규칙 공통화와 추상화 기준"
 kind: rule
-status: active
+status: archived
 summary: "업무 규칙과 정책값의 차이를 구분하고 현재 필요한 변형만 추상화하며, 임시 중복의 정리 조건을 둔다."
 scope:
   - general
 tags: [engineering, architecture, reuse, abstraction]
 created: "2026-10-20"
-updated: "2026-10-20"
+updated: "2026-10-26"
 language: ko
 ---
 
 # 업무 규칙 공통화와 추상화 기준
+
+> 보관 문서입니다. 현재 기준은 [소프트웨어 변경·검증 기준](../../../knowledge/rules/coding/engineering-changes.md)에 통합했습니다. 아래 내용은 과거 기준이며 활성 규칙이 아닙니다.
 
 ## 적용 상황
 

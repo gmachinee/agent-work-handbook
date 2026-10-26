@@ -2,17 +2,19 @@
 id: kb-git-merge-preservation
 title: "브랜치 병합 시 변경 보존 절차"
 kind: guide
-status: active
+status: archived
 summary: "병합 충돌에서 양쪽 의도를 통합하고 i18n·rename 변경 및 기준 브랜치 변경의 중복 유입을 확인한다."
 scope:
   - general
 tags: [engineering, git, collaboration]
 created: "2026-10-20"
-updated: "2026-10-20"
+updated: "2026-10-26"
 language: ko
 ---
 
 # 브랜치 병합 시 변경 보존 절차
+
+> 보관 문서입니다. 현재 기준은 [소프트웨어 변경·검증 기준](../../../knowledge/rules/coding/engineering-changes.md)에 통합했습니다. 아래 내용은 과거 기준이며 활성 규칙이 아닙니다.
 
 ## 준비 조건
 
